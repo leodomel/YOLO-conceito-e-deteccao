@@ -9,5 +9,7 @@ Para o projeto do vídeo você vai precisar já ter instalado em sua máquina o 
 Alguns dos links que foram utilizados no vídeo são:
 
 Site [YOLOV5](https://pytorch.org/hub/ultralytics_yolov5/) ;
+
 Instalação [PyTorch](https://pytorch.org/get-started/locally/) ;
+
 Link para o git clone do YOLO: https://github.com/ultralytics/yolov5.
